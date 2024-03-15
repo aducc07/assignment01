@@ -27,6 +27,6 @@ def analyze_image(image_path, target_size=(300, 300), threshold_value=128):
 
     plt.show()
 
-# Example Usage
+
 image_path = "mu.jpg"  # Replace with the path to your image
 analyze_image(image_path)
